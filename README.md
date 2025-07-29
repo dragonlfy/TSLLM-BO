@@ -3,6 +3,8 @@
 > **TL;DR** TSLLM‑BO couples large‑language‑model (LLM) priors with structure‑aware reinforcement learning to deliver accurate, stable, and generalizable time‑series forecasts. The repo provides an out‑of‑the‑box pipeline covering (i) supervised pre‑training, (ii) RL behavioral optimization, and (iii) evaluation / inference.
 
 ---
+## ✨ Dataset
+https://github.com/thuml/Time-Series-Library
 
 ## ✨ Key Features
 
