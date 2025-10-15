@@ -105,21 +105,6 @@ Our reported scores will be dumped to `results/summary.csv` for easy comparison.
 
 ---
 
-## 📝 Citation
-
-If you find TSLLM‑BO useful in your research, please cite:
-
-```bibtex
-@inproceedings{tsllmbo2025,
-  title     = {TSLLM‑BO: Structure‑Aware Behavioral Optimization for Time‑Series Forecasting with LLM‑Enhanced Reinforcement Learning},
-  author    = {Your Name and Collaborators},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  year      = {2025}
-}
-```
-
----
-
 ## 📄 License
 
 This project is released under the Apache 2.0 License. See `LEGAL.md` for details.
